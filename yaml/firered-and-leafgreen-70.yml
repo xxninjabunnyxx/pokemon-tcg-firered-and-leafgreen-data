@@ -1,0 +1,93 @@
+---
+id: ex6-70
+name: Nidoran ♀
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '50'
+types:
+- Grass
+evolvesTo:
+- Nidorina
+attacks:
+- name: Look for Friends
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: ''
+  text: Reveal cards from your deck until you reveal a Basic Pokémon. Show that card
+    to your opponent and put it into your hand. Shuffle the other revealed cards into
+    your deck. (If you don't reveal a Basic Pokémon, shuffle all the revealed cards
+    back into your deck.)
+- name: Bite
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: ''
+weaknesses:
+- type: Psychic
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: ex6
+  name: FireRed & LeafGreen
+  series: EX
+  printedTotal: 112
+  total: 116
+  legalities:
+    unlimited: Legal
+  ptcgoCode: RG
+  releaseDate: 2004/09/01
+  updatedAt: 2019/01/28 16:44:00
+  images:
+    symbol: https://images.pokemontcg.io/ex6/symbol.png
+    logo: https://images.pokemontcg.io/ex6/logo.png
+number: '70'
+artist: Naoyo Kimura
+rarity: Common
+nationalPokedexNumbers:
+- 29
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ex6/70.png
+  large: https://images.pokemontcg.io/ex6/70_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ex6-70
+  updatedAt: 2023/09/10
+  prices:
+    normal:
+      low: 0.25
+      mid: 0.42
+      high: 2.33
+      market: 0.53
+      directLow: 0.25
+    reverseHolofoil:
+      low: 1.99
+      mid: 2.98
+      high: 5.37
+      market: 2.8
+      directLow: 3.75
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ex6-70
+  updatedAt: 2023/09/10
+  prices:
+    averageSellPrice: 0.49
+    lowPrice: 0.02
+    trendPrice: 0.65
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 3.98
+    reverseHoloLow: 1.25
+    reverseHoloTrend: 3.4
+    lowPriceExPlus: 0.03
+    avg1: 2.0
+    avg7: 0.43
+    avg30: 0.38
+    reverseHoloAvg1: 4.0
+    reverseHoloAvg7: 3.34
+    reverseHoloAvg30: 3.23
